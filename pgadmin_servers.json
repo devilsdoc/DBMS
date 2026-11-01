@@ -1,0 +1,14 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "CSE Attendance Database",
+      "Group": "Servers",
+      "Host": "attendance_db",
+      "Port": 5432,
+      "MaintenanceDB": "cse_attendance",
+      "Username": "postgres",
+      "SSLMode": "prefer",
+      "PassFile": ""
+    }
+  }
+}

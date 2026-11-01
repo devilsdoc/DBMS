@@ -1,0 +1,63 @@
+version: '3.8'
+
+services:
+  # ===========================================================================
+  # 1. PostgreSQL 16 Database
+  # ===========================================================================
+  attendance_db:
+    image: postgres:16-alpine
+    container_name: cse_attendance_db
+    restart: always
+    environment:
+      POSTGRES_USER: ${DB_USER:-postgres}
+      POSTGRES_PASSWORD: ${DB_PASSWORD:-postgres}
+      POSTGRES_DB: ${DB_NAME:-cse_attendance}
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${DB_USER:-postgres} -d ${DB_NAME:-cse_attendance}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # ===========================================================================
+  # 2. pgAdmin 4 Web GUI (Port 5050)
+  # ===========================================================================
+  pgadmin:
+    image: dpage/pgadmin4:latest
+    container_name: cse_attendance_pgadmin
+    restart: always
+    environment:
+      PGADMIN_DEFAULT_EMAIL: ${PGADMIN_EMAIL:-admin@inst.edu}
+      PGADMIN_DEFAULT_PASSWORD: ${PGADMIN_PASSWORD:-admin}
+      PGADMIN_CONFIG_SERVER_MODE: 'False'
+    ports:
+      - "5050:80"
+    volumes:
+      - ./pgadmin_servers.json:/pgadmin4/servers.json:ro
+      - pgadmin_data:/var/lib/pgadmin
+    depends_on:
+      attendance_db:
+        condition: service_healthy
+
+  # ===========================================================================
+  # 3. Adminer (Lightweight Zero-Config Web DB Browser - Port 8080)
+  # ===========================================================================
+  adminer:
+    image: adminer:latest
+    container_name: cse_attendance_adminer
+    restart: always
+    ports:
+      - "8080:8080"
+    depends_on:
+      attendance_db:
+        condition: service_healthy
+
+volumes:
+  postgres_data:
+    driver: local
+  pgadmin_data:
+    driver: local

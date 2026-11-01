@@ -1,0 +1,91 @@
+Lecture_ID,Course_ID,Course_Code,Course_Name,Div_ID,Class_ID,Day_Of_Week,Slot_No,Start_Time,End_Time,Room_No,Teacher_ID,Teacher_Name,Semester,AY_ID,Status
+L001,CR01,CS301,Data Structures,DIV01,C01,Monday,1,09:00:00,10:00:00,A-101,EMP005,Prof. Vikram Shinde,3,AY2025,Active
+L002,CR02,CS302,DBMS,DIV01,C01,Monday,2,10:00:00,11:00:00,A-101,EMP002,Dr. Sunita Deshmukh,3,AY2025,Active
+L003,CR03,CS303,Operating Systems,DIV01,C01,Monday,3,11:15:00,12:15:00,A-101,EMP004,Dr. Priya Joshi,3,AY2025,Active
+L004,CR04,CS304,Computer Networks,DIV01,C01,Monday,4,13:15:00,14:15:00,A-101,EMP005,Prof. Vikram Shinde,3,AY2025,Active
+L005,CR05,CS305,Discrete Mathematics,DIV01,C01,Monday,5,14:15:00,15:15:00,A-101,EMP003,Dr. Anil Kulkarni,3,AY2025,Active
+L006,CR06,CS306,OOP with Java,DIV01,C01,Monday,6,15:30:00,16:30:00,A-101,EMP001,Dr. Ramesh Patil,3,AY2025,Active
+L007,CR01,CS301,Data Structures,DIV01,C01,Tuesday,1,09:00:00,10:00:00,A-101,EMP005,Prof. Vikram Shinde,3,AY2025,Active
+L008,CR02,CS302,DBMS,DIV01,C01,Tuesday,2,10:00:00,11:00:00,A-101,EMP002,Dr. Sunita Deshmukh,3,AY2025,Active
+L009,CR03,CS303,Operating Systems,DIV01,C01,Tuesday,3,11:15:00,12:15:00,A-101,EMP004,Dr. Priya Joshi,3,AY2025,Active
+L010,CR04,CS304,Computer Networks,DIV01,C01,Tuesday,4,13:15:00,14:15:00,A-101,EMP005,Prof. Vikram Shinde,3,AY2025,Active
+L011,CR05,CS305,Discrete Mathematics,DIV01,C01,Tuesday,5,14:15:00,15:15:00,A-101,EMP003,Dr. Anil Kulkarni,3,AY2025,Active
+L012,CR06,CS306,OOP with Java,DIV01,C01,Tuesday,6,15:30:00,16:30:00,A-101,EMP001,Dr. Ramesh Patil,3,AY2025,Active
+L013,CR01,CS301,Data Structures,DIV01,C01,Wednesday,1,09:00:00,10:00:00,A-101,EMP005,Prof. Vikram Shinde,3,AY2025,Active
+L014,CR02,CS302,DBMS,DIV01,C01,Wednesday,2,10:00:00,11:00:00,A-101,EMP002,Dr. Sunita Deshmukh,3,AY2025,Active
+L015,CR03,CS303,Operating Systems,DIV01,C01,Wednesday,3,11:15:00,12:15:00,A-101,EMP004,Dr. Priya Joshi,3,AY2025,Active
+L016,CR04,CS304,Computer Networks,DIV01,C01,Wednesday,4,13:15:00,14:15:00,A-101,EMP005,Prof. Vikram Shinde,3,AY2025,Active
+L017,CR05,CS305,Discrete Mathematics,DIV01,C01,Wednesday,5,14:15:00,15:15:00,A-101,EMP003,Dr. Anil Kulkarni,3,AY2025,Active
+L018,CR06,CS306,OOP with Java,DIV01,C01,Wednesday,6,15:30:00,16:30:00,A-101,EMP001,Dr. Ramesh Patil,3,AY2025,Active
+L019,CR01,CS301,Data Structures,DIV01,C01,Thursday,1,09:00:00,10:00:00,A-101,EMP005,Prof. Vikram Shinde,3,AY2025,Active
+L020,CR02,CS302,DBMS,DIV01,C01,Thursday,2,10:00:00,11:00:00,A-101,EMP002,Dr. Sunita Deshmukh,3,AY2025,Active
+L021,CR03,CS303,Operating Systems,DIV01,C01,Thursday,3,11:15:00,12:15:00,A-101,EMP004,Dr. Priya Joshi,3,AY2025,Active
+L022,CR04,CS304,Computer Networks,DIV01,C01,Thursday,4,13:15:00,14:15:00,A-101,EMP005,Prof. Vikram Shinde,3,AY2025,Active
+L023,CR05,CS305,Discrete Mathematics,DIV01,C01,Thursday,5,14:15:00,15:15:00,A-101,EMP003,Dr. Anil Kulkarni,3,AY2025,Active
+L024,CR06,CS306,OOP with Java,DIV01,C01,Thursday,6,15:30:00,16:30:00,A-101,EMP001,Dr. Ramesh Patil,3,AY2025,Active
+L025,CR01,CS301,Data Structures,DIV01,C01,Friday,1,09:00:00,10:00:00,A-101,EMP005,Prof. Vikram Shinde,3,AY2025,Active
+L026,CR02,CS302,DBMS,DIV01,C01,Friday,2,10:00:00,11:00:00,A-101,EMP002,Dr. Sunita Deshmukh,3,AY2025,Active
+L027,CR03,CS303,Operating Systems,DIV01,C01,Friday,3,11:15:00,12:15:00,A-101,EMP004,Dr. Priya Joshi,3,AY2025,Active
+L028,CR04,CS304,Computer Networks,DIV01,C01,Friday,4,13:15:00,14:15:00,A-101,EMP005,Prof. Vikram Shinde,3,AY2025,Active
+L029,CR05,CS305,Discrete Mathematics,DIV01,C01,Friday,5,14:15:00,15:15:00,A-101,EMP003,Dr. Anil Kulkarni,3,AY2025,Active
+L030,CR06,CS306,OOP with Java,DIV01,C01,Friday,6,15:30:00,16:30:00,A-101,EMP001,Dr. Ramesh Patil,3,AY2025,Active
+L031,CR01,CS301,Data Structures,DIV02,C01,Monday,1,09:00:00,10:00:00,A-102,EMP005,Prof. Vikram Shinde,3,AY2025,Active
+L032,CR02,CS302,DBMS,DIV02,C01,Monday,2,10:00:00,11:00:00,A-102,EMP003,Dr. Anil Kulkarni,3,AY2025,Active
+L033,CR03,CS303,Operating Systems,DIV02,C01,Monday,3,11:15:00,12:15:00,A-102,EMP001,Dr. Ramesh Patil,3,AY2025,Active
+L034,CR04,CS304,Computer Networks,DIV02,C01,Monday,4,13:15:00,14:15:00,A-102,EMP002,Dr. Sunita Deshmukh,3,AY2025,Active
+L035,CR05,CS305,Discrete Mathematics,DIV02,C01,Monday,5,14:15:00,15:15:00,A-102,EMP004,Dr. Priya Joshi,3,AY2025,Active
+L036,CR06,CS306,OOP with Java,DIV02,C01,Monday,6,15:30:00,16:30:00,A-102,EMP005,Prof. Vikram Shinde,3,AY2025,Active
+L037,CR01,CS301,Data Structures,DIV02,C01,Tuesday,1,09:00:00,10:00:00,A-102,EMP005,Prof. Vikram Shinde,3,AY2025,Active
+L038,CR02,CS302,DBMS,DIV02,C01,Tuesday,2,10:00:00,11:00:00,A-102,EMP003,Dr. Anil Kulkarni,3,AY2025,Active
+L039,CR03,CS303,Operating Systems,DIV02,C01,Tuesday,3,11:15:00,12:15:00,A-102,EMP001,Dr. Ramesh Patil,3,AY2025,Active
+L040,CR04,CS304,Computer Networks,DIV02,C01,Tuesday,4,13:15:00,14:15:00,A-102,EMP002,Dr. Sunita Deshmukh,3,AY2025,Active
+L041,CR05,CS305,Discrete Mathematics,DIV02,C01,Tuesday,5,14:15:00,15:15:00,A-102,EMP004,Dr. Priya Joshi,3,AY2025,Active
+L042,CR06,CS306,OOP with Java,DIV02,C01,Tuesday,6,15:30:00,16:30:00,A-102,EMP005,Prof. Vikram Shinde,3,AY2025,Active
+L043,CR01,CS301,Data Structures,DIV02,C01,Wednesday,1,09:00:00,10:00:00,A-102,EMP005,Prof. Vikram Shinde,3,AY2025,Active
+L044,CR02,CS302,DBMS,DIV02,C01,Wednesday,2,10:00:00,11:00:00,A-102,EMP003,Dr. Anil Kulkarni,3,AY2025,Active
+L045,CR03,CS303,Operating Systems,DIV02,C01,Wednesday,3,11:15:00,12:15:00,A-102,EMP001,Dr. Ramesh Patil,3,AY2025,Active
+L046,CR04,CS304,Computer Networks,DIV02,C01,Wednesday,4,13:15:00,14:15:00,A-102,EMP002,Dr. Sunita Deshmukh,3,AY2025,Active
+L047,CR05,CS305,Discrete Mathematics,DIV02,C01,Wednesday,5,14:15:00,15:15:00,A-102,EMP004,Dr. Priya Joshi,3,AY2025,Active
+L048,CR06,CS306,OOP with Java,DIV02,C01,Wednesday,6,15:30:00,16:30:00,A-102,EMP005,Prof. Vikram Shinde,3,AY2025,Active
+L049,CR01,CS301,Data Structures,DIV02,C01,Thursday,1,09:00:00,10:00:00,A-102,EMP005,Prof. Vikram Shinde,3,AY2025,Active
+L050,CR02,CS302,DBMS,DIV02,C01,Thursday,2,10:00:00,11:00:00,A-102,EMP003,Dr. Anil Kulkarni,3,AY2025,Active
+L051,CR03,CS303,Operating Systems,DIV02,C01,Thursday,3,11:15:00,12:15:00,A-102,EMP001,Dr. Ramesh Patil,3,AY2025,Active
+L052,CR04,CS304,Computer Networks,DIV02,C01,Thursday,4,13:15:00,14:15:00,A-102,EMP002,Dr. Sunita Deshmukh,3,AY2025,Active
+L053,CR05,CS305,Discrete Mathematics,DIV02,C01,Thursday,5,14:15:00,15:15:00,A-102,EMP004,Dr. Priya Joshi,3,AY2025,Active
+L054,CR06,CS306,OOP with Java,DIV02,C01,Thursday,6,15:30:00,16:30:00,A-102,EMP005,Prof. Vikram Shinde,3,AY2025,Active
+L055,CR01,CS301,Data Structures,DIV02,C01,Friday,1,09:00:00,10:00:00,A-102,EMP005,Prof. Vikram Shinde,3,AY2025,Active
+L056,CR02,CS302,DBMS,DIV02,C01,Friday,2,10:00:00,11:00:00,A-102,EMP003,Dr. Anil Kulkarni,3,AY2025,Active
+L057,CR03,CS303,Operating Systems,DIV02,C01,Friday,3,11:15:00,12:15:00,A-102,EMP001,Dr. Ramesh Patil,3,AY2025,Active
+L058,CR04,CS304,Computer Networks,DIV02,C01,Friday,4,13:15:00,14:15:00,A-102,EMP002,Dr. Sunita Deshmukh,3,AY2025,Active
+L059,CR05,CS305,Discrete Mathematics,DIV02,C01,Friday,5,14:15:00,15:15:00,A-102,EMP004,Dr. Priya Joshi,3,AY2025,Active
+L060,CR06,CS306,OOP with Java,DIV02,C01,Friday,6,15:30:00,16:30:00,A-102,EMP005,Prof. Vikram Shinde,3,AY2025,Active
+L061,CR07,CS501,Software Engineering,DIV03,C02,Monday,1,09:00:00,10:00:00,B-201,EMP002,Dr. Sunita Deshmukh,5,AY2025,Active
+L062,CR08,CS502,Machine Learning,DIV03,C02,Monday,2,10:00:00,11:00:00,B-201,EMP003,Dr. Anil Kulkarni,5,AY2025,Active
+L063,CR09,CS503,Web Technologies,DIV03,C02,Monday,3,11:15:00,12:15:00,B-201,EMP004,Dr. Priya Joshi,5,AY2025,Active
+L064,CR10,CS504,Compiler Design,DIV03,C02,Monday,4,13:15:00,14:15:00,B-201,EMP005,Prof. Vikram Shinde,5,AY2025,Active
+L065,CR11,CS505,Cloud Computing,DIV03,C02,Monday,5,14:15:00,15:15:00,B-201,EMP001,Dr. Ramesh Patil,5,AY2025,Active
+L066,CR12,CS506,Cyber Security,DIV03,C02,Monday,6,15:30:00,16:30:00,B-201,EMP002,Dr. Sunita Deshmukh,5,AY2025,Active
+L067,CR07,CS501,Software Engineering,DIV03,C02,Tuesday,1,09:00:00,10:00:00,B-201,EMP002,Dr. Sunita Deshmukh,5,AY2025,Active
+L068,CR08,CS502,Machine Learning,DIV03,C02,Tuesday,2,10:00:00,11:00:00,B-201,EMP003,Dr. Anil Kulkarni,5,AY2025,Active
+L069,CR09,CS503,Web Technologies,DIV03,C02,Tuesday,3,11:15:00,12:15:00,B-201,EMP004,Dr. Priya Joshi,5,AY2025,Active
+L070,CR10,CS504,Compiler Design,DIV03,C02,Tuesday,4,13:15:00,14:15:00,B-201,EMP005,Prof. Vikram Shinde,5,AY2025,Active
+L071,CR11,CS505,Cloud Computing,DIV03,C02,Tuesday,5,14:15:00,15:15:00,B-201,EMP001,Dr. Ramesh Patil,5,AY2025,Active
+L072,CR12,CS506,Cyber Security,DIV03,C02,Tuesday,6,15:30:00,16:30:00,B-201,EMP002,Dr. Sunita Deshmukh,5,AY2025,Active
+L073,CR07,CS501,Software Engineering,DIV03,C02,Wednesday,1,09:00:00,10:00:00,B-201,EMP002,Dr. Sunita Deshmukh,5,AY2025,Active
+L074,CR08,CS502,Machine Learning,DIV03,C02,Wednesday,2,10:00:00,11:00:00,B-201,EMP003,Dr. Anil Kulkarni,5,AY2025,Active
+L075,CR09,CS503,Web Technologies,DIV03,C02,Wednesday,3,11:15:00,12:15:00,B-201,EMP004,Dr. Priya Joshi,5,AY2025,Active
+L076,CR10,CS504,Compiler Design,DIV03,C02,Wednesday,4,13:15:00,14:15:00,B-201,EMP005,Prof. Vikram Shinde,5,AY2025,Active
+L077,CR11,CS505,Cloud Computing,DIV03,C02,Wednesday,5,14:15:00,15:15:00,B-201,EMP001,Dr. Ramesh Patil,5,AY2025,Active
+L078,CR12,CS506,Cyber Security,DIV03,C02,Wednesday,6,15:30:00,16:30:00,B-201,EMP002,Dr. Sunita Deshmukh,5,AY2025,Active
+L079,CR07,CS501,Software Engineering,DIV03,C02,Thursday,1,09:00:00,10:00:00,B-201,EMP002,Dr. Sunita Deshmukh,5,AY2025,Active
+L080,CR08,CS502,Machine Learning,DIV03,C02,Thursday,2,10:00:00,11:00:00,B-201,EMP003,Dr. Anil Kulkarni,5,AY2025,Active
+L081,CR09,CS503,Web Technologies,DIV03,C02,Thursday,3,11:15:00,12:15:00,B-201,EMP004,Dr. Priya Joshi,5,AY2025,Active
+L082,CR10,CS504,Compiler Design,DIV03,C02,Thursday,4,13:15:00,14:15:00,B-201,EMP005,Prof. Vikram Shinde,5,AY2025,Active
+L083,CR11,CS505,Cloud Computing,DIV03,C02,Thursday,5,14:15:00,15:15:00,B-201,EMP001,Dr. Ramesh Patil,5,AY2025,Active
+L084,CR12,CS506,Cyber Security,DIV03,C02,Thursday,6,15:30:00,16:30:00,B-201,EMP002,Dr. Sunita Deshmukh,5,AY2025,Active
+L085,CR07,CS501,Software Engineering,DIV03,C02,Friday,1,09:00:00,10:00:00,B-201,EMP002,Dr. Sunita Deshmukh,5,AY2025,Active
+L086,CR08,CS502,Machine Learning,DIV03,C02,Friday,2,10:00:00,11:00:00,B-201,EMP003,Dr. Anil Kulkarni,5,AY2025,Active
+L087,CR09,CS503,Web Technologies,DIV03,C02,Friday,3,11:15:00,12:15:00,B-201,EMP004,Dr. Priya Joshi,5,AY2025,Active
+L088,CR10,CS504,Compiler Design,DIV03,C02,Friday,4,13:15:00,14:15:00,B-201,EMP005,Prof. Vikram Shinde,5,AY2025,Active
+L089,CR11,CS505,Cloud Computing,DIV03,C02,Friday,5,14:15:00,15:15:00,B-201,EMP001,Dr. Ramesh Patil,5,AY2025,Active
+L090,CR12,CS506,Cyber Security,DIV03,C02,Friday,6,15:30:00,16:30:00,B-201,EMP002,Dr. Sunita Deshmukh,5,AY2025,Active

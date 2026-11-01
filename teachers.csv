@@ -1,0 +1,15 @@
+Emp_ID,Teacher_Name,Designation,Dept_ID,Qualification,Specialization,Date_Of_Joining,Email,Phone,Office_Room,Employment_Type,Status
+EMP001,Dr. Ramesh Patil,Professor & HoD,D01,Ph.D. Computer Science,Database Systems,2010-06-15 00:00:00,ramesh.patil@inst.edu,9876500001,CS-201,Permanent,Active
+EMP002,Dr. Sunita Deshmukh,Associate Professor,D01,Ph.D. Computer Science,Data Mining,2012-07-01 00:00:00,sunita.deshmukh@inst.edu,9876500002,CS-202,Permanent,Active
+EMP003,Dr. Anil Kulkarni,Associate Professor,D01,Ph.D. Computer Science,Computer Networks,2013-01-10 00:00:00,anil.kulkarni@inst.edu,9876500003,CS-203,Permanent,Active
+EMP004,Dr. Priya Joshi,Associate Professor,D01,Ph.D. Information Technology,Software Engineering,2011-08-20 00:00:00,priya.joshi@inst.edu,9876500004,CS-204,Permanent,Active
+EMP005,Prof. Vikram Shinde,Assistant Professor,D01,M.Tech CSE,Data Structures & Algorithms,2015-07-15 00:00:00,vikram.shinde@inst.edu,9876500005,CS-205,Permanent,Active
+EMP006,Prof. Neha Gaikwad,Assistant Professor,D01,M.Tech CSE,Database Management,2016-06-01 00:00:00,neha.gaikwad@inst.edu,9876500006,CS-206,Permanent,Active
+EMP007,Prof. Sachin More,Assistant Professor,D01,M.Tech CSE,Operating Systems,2014-08-10 00:00:00,sachin.more@inst.edu,9876500007,CS-207,Permanent,Active
+EMP008,Prof. Kavita Pawar,Assistant Professor,D01,M.Tech IT,Computer Networks,2017-07-05 00:00:00,kavita.pawar@inst.edu,9876500008,CS-208,Permanent,Active
+EMP009,Prof. Rahul Jadhav,Assistant Professor,D01,M.Tech CSE,Discrete Mathematics,2015-01-20 00:00:00,rahul.jadhav@inst.edu,9876500009,CS-209,Permanent,Active
+EMP010,Prof. Snehal Kadam,Assistant Professor,D01,M.Tech CSE,Cyber Security,2018-06-15 00:00:00,snehal.kadam@inst.edu,9876500010,CS-210,Permanent,Active
+EMP011,Prof. Amit Bhosale,Assistant Professor,D01,M.Tech CSE,OOP & Java,2016-07-01 00:00:00,amit.bhosale@inst.edu,9876500011,CS-211,Permanent,Active
+EMP012,Prof. Pooja Sawant,Assistant Professor,D01,M.Tech CSE,Web Technologies,2019-07-10 00:00:00,pooja.sawant@inst.edu,9876500012,CS-212,Permanent,Active
+EMP013,Prof. Ganesh Chavan,Assistant Professor,D01,M.Tech CSE,Cloud Computing,2017-01-15 00:00:00,ganesh.chavan@inst.edu,9876500013,CS-213,Permanent,Active
+EMP014,Prof. Madhuri Patil,Assistant Professor,D01,M.Tech CSE,Machine Learning,2018-08-01 00:00:00,madhuri.patil@inst.edu,9876500014,CS-214,Permanent,Active
